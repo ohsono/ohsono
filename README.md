@@ -14,14 +14,16 @@ I build data infrastructure, ML pipelines, and distributed systems. My backgroun
 
 ## Tech Stack
 
-**Languages:** Python, SQL, Go, Bash
-**ML/AI:** PyTorch, Diffusion Models, VAE, vLLM, MLX
-**Data:** Kafka, LMDB, MySQL, ProxySQL, Datadog
-**Infra:** Docker, GitHub Actions, Distributed GPU Training
+**Languages:** C, Python, SQL, Go, Bash, Java
+**ML/AI:** PyTorch, Diffusion Models, VAE, vLLM, MLX, MCP, Agents
+**Data:** Kafka, SQLite3, LMDB, PostgreSQL, MySQL, MS SQL Server, ProxySQL, Datadog, 
+**Infra:** Kubernetes, Docker, HPC (Distributed GPU Training), GCP, AWS
+**CI/CD:** GitHub Actions, 
 
 ## Education
 
 **UCLA** — Master of Applied Data Science (MASDS)
+**University At Buffalo** - B.S. Computer Science & Engineering
 
 ## Connect
 
