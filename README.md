@@ -7,15 +7,16 @@ I build data infrastructure, ML pipelines, and distributed systems. My backgroun
 ## Areas of Focus
 
 - Synthetic data generation & privacy-preserving ML
-- Large-scale data pipelines (Kafka, LMDB, distributed training)
-- LLM inference & serving (vLLM, MLX, Ollama)
-- Database engineering (MySQL, ProxySQL)
+- Legacy SRE & DevOps to scale in the Cloud Native Infra
+- Large-scale data/ML pipelines (MLFlow, Kafka, LMDB, distributed training)
+- Local LLM inference & serving (CUDA, MLX, RDMA, vLLM, Ollama)
+- Database engineering (RDSMS, NoSQL, and Distributed SQL)
 - CI/CD & containerized ML workflows (Docker, GitHub Actions)
 
 ## Tech Stack
 
 **Languages:** C, Python, SQL, Go, Bash, Java
-**ML/AI:** PyTorch, Diffusion Models, VAE, vLLM, MLX, MCP, Agents
+**ML/AI:** PyTorch, Diffusion, Variational Autoencoder (VAE), vLLM, MLX, MCP, Agents
 **Data:** Kafka, SQLite3, LMDB, PostgreSQL, MySQL, MS SQL Server, ProxySQL, Datadog, 
 **Infra:** Kubernetes, Docker, HPC (Distributed GPU Training), GCP, AWS
 **CI/CD:** GitHub Actions, 
