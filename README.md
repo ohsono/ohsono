@@ -27,7 +27,7 @@ I build data infrastructure, ML pipelines, and distributed systems. My backgroun
 - **University At Buffalo** - B.S. Computer Science & Engineering
 
 ## Publication 
-** current pending review **
+ICLR 2026 - DeLTA, accepted (poster)
 
 ## Connect
 
