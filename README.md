@@ -17,9 +17,11 @@ I build data infrastructure, ML pipelines, and distributed systems. My backgroun
 
 - **Languages:** C, Python, SQL, Go, Bash, Java
 - **ML/AI:** PyTorch, Diffusion, Variational Autoencoder (VAE), vLLM, MLX, MCP, Agents
-- **Data:** Kafka, SQLite3, LMDB, PostgreSQL, MySQL, MS SQL Server, ProxySQL, Datadog, 
+- **Data:** Kafka, SQLite3, LMDB, Redis, PostgreSQL, MySQL, MS SQL Server, ProxySQL, Aerospike, MongoDB,
+    OpenSearch, FoundationDB, etcd, Prometheus, memcached
+- **Observerbility:** Cloudwatch, Datadog, Grafana, Log Stash
 - **Infra:** Kubernetes, Docker, HPC (Distributed GPU Training), GCP, AWS
-- **CI/CD:** GitHub Actions, ArgoCD
+- **CI/CD:** GitHub Actions, ArgoCD, Gitlab, Jenkins, Drone.io, ECR, GCR, Dockerhub
 
 ## Education
 
@@ -27,7 +29,8 @@ I build data infrastructure, ML pipelines, and distributed systems. My backgroun
 - **University At Buffalo** - B.S. Computer Science & Engineering
 
 ## Publication 
-ICLR 2026 - DeLTA, accepted (poster)
+SYNTHONY: A Stress-Aware, Intent-Conditioned Agent for Deep Tabular Generative Models Selection, ICLR 2026 - DeLTA, accepted (poster)
+[https://arxiv.org/pdf/2604.00293]
 
 ## Connect
 
