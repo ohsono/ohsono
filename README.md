@@ -113,6 +113,18 @@ I work the gap between GenAI/LLM research and the systems that have to run it in
 
 </div>
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohsono/ohsono/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohsono/ohsono/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ohsono/ohsono/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ## 🎓 Education
 
 - **UCLA** — Master of Applied Statistics Data Science (MASDS) — *Outstanding Master's Award, 2025–26*
