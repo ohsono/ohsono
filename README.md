@@ -104,10 +104,9 @@ I work the gap between GenAI/LLM research and the systems that have to run it in
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohsono&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ohsono&theme=tokyonight)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ohsono&theme=tokyonight)
+<!-- Self-hosted metrics — generated daily by .github/workflows/metrics.yml and
+     committed to this repo, so it never depends on a third-party service at view time. -->
+![Metrics](https://raw.githubusercontent.com/ohsono/ohsono/main/github-metrics.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ohsono&hide_border=true&theme=tokyonight)
 
