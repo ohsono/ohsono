@@ -32,9 +32,3 @@ jobs:
           # Contribution calendar + current/longest streak (self-hosted streak replacement)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Commit-time habits / activity heatmap
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
